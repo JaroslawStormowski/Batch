@@ -1,5 +1,6 @@
 @echo off
 color 0A
+rem this is my program.
 rem How many minutes to wait?
 echo *********************************************
 Echo Hello
